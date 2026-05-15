@@ -1,4 +1,8 @@
 # ASUS Control Center for DankMaterialShell
+
+> I do not maintain this anymore. Please use the updated version found [here](https://github.com/shazzaam7/DankAsusControl).
+
+
 Power & GPU Management for ASUS Laptops.  
 A plugin for [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 
